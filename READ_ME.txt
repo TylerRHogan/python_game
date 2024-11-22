@@ -9,3 +9,9 @@ As you play through the game, you will receive points as you complete game actio
 There are several endings...
 
 Good luck!
+
+# Credits:
+# Michael Leversha
+# Omid Karimi
+# Munir Saeed
+# Tyler Hogan
